@@ -1,2 +1,4 @@
 # Word-Frequency-Checker
-Word frequency checking program which will scan the text file you give it and it will find out the frequency of the words in the text file
+Word frequency checking program which will scan the text file you give it and it will find out the frequency of the words in the text file.</br></br>
+
+It will tell the user how much was the frequency of a specific word in a text file!
